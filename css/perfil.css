@@ -1,0 +1,16 @@
+div#datos-perfil{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	min-height: 500px;
+	max-width: 800px;
+	padding: 80px;
+	padding-top: 1px;
+	padding-bottom: 40px;
+}
+
+div#datos-perfil span{
+	font-weight: bold;
+}
+
+hr{
+	margin: 20px;
+}

@@ -1,0 +1,49 @@
+div.container-fluid{
+	background-color: #F1F1F1;
+	padding: 150px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+div.container-fluid #img-registro{
+	background-color: white;
+	padding-left: 0;
+}
+
+div.container-fluid #img-registro img{
+	height: 100%;
+	width: 100%;
+}
+
+div.container-fluid #formulario-registro{
+	background-color: white;
+	padding: 90px;
+	padding-top: 15px;
+	padding-bottom: 50px;
+}
+
+div.container-fluid #formulario-registro button{
+	margin-top: 20px;
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+/*CSS para Dispositivos medianos*/
+@media screen and (max-width: 992px){
+	div.container-fluid{
+		padding: 100px;
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+
+	div.container-fluid #formulario-registro{
+		padding: 90px;
+		padding-top: 15px;
+	}
+}
+
+/*CSS Para Dispositivos pequeños*/
+@media screen and (max-width: 768px) {
+
+}

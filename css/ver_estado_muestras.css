@@ -1,0 +1,9 @@
+span.msj-proceso{
+	font-weight: bold;
+	color: #E46B00;
+}
+
+span.msj-terminada{
+	font-weight: bold;
+	color: #0AE100;
+}
